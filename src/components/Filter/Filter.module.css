@@ -1,0 +1,7 @@
+.inputText {
+    width: 20%;
+}
+.filterLabel {
+    display: flex;
+    flex-direction: column;
+}
