@@ -5,9 +5,11 @@
     justify-content: center;
     gap: 20px;
     width: 70%;
+    padding: 5px;
+    
 }
 button {
-    display: inline-block;    
+    width: 150px;   
     color: white;
     background-color: green;
     margin-left: 20px;
@@ -16,4 +18,6 @@ button {
     }
 input {
     border: rgb(19, 139, 47) 1px solid;
+    width: 300px;
 }
+
